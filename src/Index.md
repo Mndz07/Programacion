@@ -5,3 +5,5 @@ pero su charla inaugural ha vuelto a ser una oportunidad fantástica para que la
 como el Pixel Fold o el Pixel Tablet. 
 Entre ellos está además uno muy esperado: el nuevo Pixel 7a que de hecho ya hemos analizado en Xataka.Estamos ante una nueva iteración del terminal “asequible” de la familia Pixel. 
 Este año la propuesta de Google es más ambiciosa que nunca y llega con mejoras muy importantes en sus cámaras, su pantalla y sus sistemas de carga. Hay mucho bueno que contar, así que adentrémonos en este nuevo producto.
+
+Cambio de la nueva rama
